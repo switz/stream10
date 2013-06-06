@@ -1,7 +1,7 @@
 # Stream10
 
 Slightly modified nodejsv0.10 stream module, only require paths adjusted to refer to themselves not to the core stream one´s
-Allows running codeparty/multiplayernotepad for derby.js to run in node v0.8x (it's meant to run on node v0.10x)
+Allows running codeparty/multiplayernotepad (or maybe other apps) for derby.js to run in node v0.8x (derby 0.5+ is meant to run on node v0.10x)
 
 
 ## Installation
