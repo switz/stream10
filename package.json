@@ -1,0 +1,17 @@
+{
+  "name": "stream10",
+  "version": "0.0.0",
+  "description": "Slightly modified nodejsv0.10 stream module, only require paths adjusted to refer to themselves not to the core stream one´s.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/switz/stream10.git"
+  },
+  "author": "",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "1a8711a34bffe0e976cb61b8b2dacc99796f08fe"
+}
