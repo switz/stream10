@@ -11,7 +11,7 @@ Allows running **codeparty/multiplayernotepad** (or maybe other apps) for derby.
   
 * Copy `grepDerby.sh` inside derby´s folder. If you instaled it with -g usually it may be in /usr/local/lib/node_modules/derby. WARNING, in this case it will change derby's source code for all your apps!
   
-* Run `grepDerby.sh` to replace all require('stream') by require('stream10') in derbyjs source
+* Run `grepDerby.sh` to replace all `require('stream')` by `require('stream10')` in derbyjs source
 
 
 ## Related
