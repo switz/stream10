@@ -1,4 +1,4 @@
-*Stream10
+# Stream10
 
 Slightly modified nodejsv0.10 stream module, only require paths adjusted to refer to themselves not to the core stream one´s
 Allows running derby.js for node v0.10x in node v0.8x
