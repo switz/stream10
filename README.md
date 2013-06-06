@@ -13,5 +13,14 @@ Allows running codeparty/multiplayernotepad (or maybe other apps) for derby.js t
   instaled it with -g usually in /usr/local/lib/node_modules/derby WARNING, in this case it will change derby's source code for all your apps!
   
 - run grepDerby.sh to replace all require('stream') by require('stream10') in derbyjs source
-  
+
+
+## Related
+
+http://blog.derbyjs.com/2013/06/04/derby-v0-dot-5-0/
+
+
+## License
+
+MIT of course
 
